@@ -1,0 +1,10 @@
+SPARQLWrapper
+numpy
+pandas
+scipy
+python-csv
+matplotlib
+requests
+python-resize-image
+Pillow
+django-cors-headers
